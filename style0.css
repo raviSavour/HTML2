@@ -1,0 +1,120 @@
+body {
+  text-align: center;
+  font-family: sans-serif;
+
+}
+.top-container{
+  text-align: center;
+  background-color: #add8e6;
+  position: relative;
+  padding-top: 20px;
+}
+p{
+  font-family: serif;
+}
+h1 {
+font-family: 'Dancing Script' ,cursive ;
+margin: 0px auto 0px auto;
+
+position: relative;
+top: 50px;
+font-size: 562.5%;
+line-height: 2;
+color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+.work{
+  position: relative;
+  top: 50px;
+  margin: 0px;
+  font-family: 'Shadows Into Light', cursive;
+}
+img{
+
+}
+
+.skill1{
+
+width: 25%;
+float: left;
+padding-right: 30px;
+}
+.skill2{
+width: 25%;
+float: right;
+padding-left: 30px;
+}
+.ravi{
+  padding-top: 10px;
+height: 250px;
+width:150px;
+
+}
+.mountain{
+  position: relative;
+  top: 6px;
+}
+.pro{
+  text-decoration: underline;
+}
+.cloud1{
+  position: absolute;
+  top: 55px;
+  left: 750px;
+}
+.cloud2{
+  position: absolute;
+  top: 176px;
+  left: 650;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+#contact-me{
+  border-radius: px;
+  line-height: 2;
+  size: 20px;
+  color: white;
+  background-color: #34c0d9;
+  cursor: pointer;
+}
+#contact-me:hover{
+  background-color: #3cfa62;
+
+}
+.contact-me{
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #add8e6;
+  margin: 100px auto 0px auto;
+  padding: 20px;
+  line-height: 2;
+}
+.footer-link{
+  padding-left: 30px;
+  padding-bottom: 30px;
+}
+hr{
+  display: inline-block;
+  margin: 20px;
+  width: 4%;
+  border-top: 5px dotted;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 0px;
+  height: 0px;
+  border-color: #bccfca;
+}
